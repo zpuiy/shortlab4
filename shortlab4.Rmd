@@ -1,0 +1,55 @@
+---
+title: "Short Lab 4"
+author: "Peiyao Zhu (Noel)"
+date: "11/9/2020"
+output: html_document
+---
+
+<!--- Begin styling code. --->
+<style type="text/css">
+/* Whole document: */
+body{
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-size: 12pt;
+}
+h1.title {
+  font-size: 38px;
+  text-align: center;
+}
+h4.author {
+  font-size: 18px;
+  text-align: center;
+}
+h4.date {
+  font-size: 18px;
+  text-align: center;
+}
+</style>
+<!--- End styling code. --->
+
+
+## Part 1. Course Feedback
+
+Please take a few minutes to provide thoughtful and constructive feedback for me and this course through the anonymous feedback form posted on Canvas. ([Link here, or available on the pinned Canvas discussion page.](https://canvas.uw.edu/courses/1402432/discussion_topics/5737404))
+
+Your opinions really do matter to me! It can be about my teaching, the content of the course, the labs, or anything. 
+I will read and respond to your feedback carefully.
+If I only know about your problems and concerns at the end of the quarter through the formal university teaching evaluation, it will be too late to adjust!
+
+Of course, I cannot grade you on this component of the short lab, nor will I know if you completed it. However, your feedback will be greatly appreciated.
+It will help improve the course for you and future generations of students.
+
+## Part 2. Set up a GitHub!
+
+Follow the instructions on Lecture Slides 7 (60 -- 68).
+
+Please type only the link to your repository using the template below. Fill in both the square brackets `[]` and the parentheses `()` with your link.
+
+
+[https://github.com/zpuiy/shortlab4.git](https://github.com/zpuiy/shortlab4.git)
+
+Here's a checklist of what we should see at the link above:
+
+1. A `README.md` file with two lines indicating that it has been edited through shell on your local computer as well as through RStudio.
+2. A `.Rmd` file for Short Lab 4.
+3. A `.html` file for Short Lab 4.
